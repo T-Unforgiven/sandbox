@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(int argc, char* argv[]){
-	cout << "Input first number" << endl;
+	cout << "input first number" << endl;
 	int A;
 	cin >> A;
-	cout << "Input second number" << endl;
+	cout << "input second number" << endl;
 	int n;
 	cin >> n;
 	unsigned int b = 0x01;
